@@ -1,0 +1,69 @@
+baseURL = 'https://anwralhabsi.github.io/'
+languageCode = 'en-us'
+title = 'The Gate to Blue Teaming'
+theme = 'beautifulhugo'
+publishDir = "docs"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Allows HTML in Markdown files
+
+[params]
+  logo = "img/final.jpg"
+
+  googleAnalytics = "G-R8V7WR0TTJ"
+
+[params.author]
+  name = "Anwar Alhabsi"
+  twitter= "anwralhabsi"
+  instagram= "anwrsden"
+  email= "anwr.alhabsii@gmail.com" 
+
+  [author]
+  name = "Anwar Alhabsi"
+  twitter= "anwralhabsi"
+  instagram= "anwrsden"
+  email= "anwr.alhabsii@gmail.com"
+  
+  [[menu.main]]
+    name = "Quiz"
+    url = "/quiz/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Quick access"
+    url = "/quick_access/"
+    weight = 3
+
+  [[menu.main]]
+    name = "levels"
+    url = ""
+    weight = 2
+
+     [[menu.main]]
+        parent = "levels"
+        name = "Level 1"
+        url = "/level_1/"
+
+    [[menu.main]]
+        parent = "levels"
+        name = "Level 2"
+        url = "/level_2/"
+
+    [[menu.main]]
+        parent = "levels"
+        name = "Level 3"
+        url = "/level_3/"
+
+
+
+  [[menu.main]]
+    name = "blog"
+    url = "/blog/"
+    weight = 4
+
+  [[menu.main]]
+    name = "about me"
+    url = "/about/"
+    weight = 5

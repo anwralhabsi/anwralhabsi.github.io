@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Gate to Blue Teaming</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on The Gate to Blue Teaming</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>anwr.alhabsii@gmail.com (Anwar Alhabsi)</managingEditor>
+    <webMaster>anwr.alhabsii@gmail.com (Anwar Alhabsi)</webMaster>
+    <lastBuildDate>Tue, 21 May 2024 12:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Blog</title>
+      <link>http://localhost:1313/blog/</link>
+      <pubDate>Tue, 21 May 2024 12:00:00 +0000</pubDate><author>anwr.alhabsii@gmail.com (Anwar Alhabsi)</author>
+      <guid>http://localhost:1313/blog/</guid>
+      <description>Latest Cyber Blue Teaming Events The XYZ Corporation Data Breach: A Case Study Overview In May 2024, XYZ Corporation, a leading global technology company, suffered a significant data breach that exposed the personal information of millions of users. This breach has highlighted critical vulnerabilities and underscored the importance of robust cybersecurity measures.&#xA;Key Highlights Attack Vector: The breach was initiated through a sophisticated phishing attack that targeted employees of XYZ Corporation.</description>
+    </item>
+    <item>
+      <title>Advanced Malware Analysis</title>
+      <link>http://localhost:1313/level_3/</link>
+      <pubDate>Thu, 02 May 2024 12:00:00 +0000</pubDate><author>anwr.alhabsii@gmail.com (Anwar Alhabsi)</author>
+      <guid>http://localhost:1313/level_3/</guid>
+      <description>Welcome to Level 3 Congratulations on making it to Level 3! This level focuses on advanced malware analysis techniques, including reverse engineering, dynamic analysis, and the use of sophisticated tools to dissect and understand malware behavior.&#xA;Note: Ensure you have completed the prerequisite labs in Level 2 before proceeding, as the concepts here build on that foundation.&#xA;Hands-on Labs Malware Analysis Basics&#xA;Start with the fundamentals of malware analysis to get a solid grounding in the basic concepts and tools used.</description>
+    </item>
+    <item>
+      <title>Cryptography and Encryption</title>
+      <link>http://localhost:1313/level_2/</link>
+      <pubDate>Wed, 01 May 2024 12:00:00 +0000</pubDate><author>anwr.alhabsii@gmail.com (Anwar Alhabsi)</author>
+      <guid>http://localhost:1313/level_2/</guid>
+      <description>Welcome to Level 2 If you reached this point, you&amp;rsquo;re ready to get Introduced to encryption methods, decryption techniques and many interesting tools.&#xA;Cryptography and Encryption are both huge topics which makes it very hard to go through in whole, but for this level I will do my best to scratch its surface so you can get a solid foundation.&#xA;Note: If you&amp;rsquo;ve completed the &amp;ldquo;OWASP top 10&amp;rdquo; lab in Level 1 you should have a good idea on cryptographic failures by now.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 30 Apr 2024 12:00:00 +0000</pubDate><author>anwr.alhabsii@gmail.com (Anwar Alhabsi)</author>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About Me My name is Anwar Alhabsi. I am a cybersecurity senior who understands the difficulties newcomers face in this field. I created this website for cybersecurity students in general, especially blue teamers, as that’s the field I’m most interested in.&#xA;Contact Me If you have any questions or would like to get in touch at any point in you&amp;rsquo;re learning journey, you can reach me by clicking on the “Contact Me” button in the top right.</description>
+    </item>
+    <item>
+      <title>Quick Access</title>
+      <link>http://localhost:1313/quick_access/</link>
+      <pubDate>Tue, 30 Apr 2024 12:00:00 +0000</pubDate><author>anwr.alhabsii@gmail.com (Anwar Alhabsi)</author>
+      <guid>http://localhost:1313/quick_access/</guid>
+      <description>Quick access Menu Whois Lookup: Provides domain information lookup service, allowing users to retrieve registration and ownership details for domains.&#xA;Nslookup: Offers online tools for DNS lookup, providing information about DNS records, IP addresses, and domain names.&#xA;Shodan: a search engine that lets users find specific types of computers (webcams, routers, servers, etc.) connected to the internet using a variety of filters, allowingS to discover potentially vulnerable devices and networks.</description>
+    </item>
+    <item>
+      <title>Welcome to the Exciting World of Cybersecurity!</title>
+      <link>http://localhost:1313/level_1/</link>
+      <pubDate>Tue, 30 Apr 2024 12:00:00 +0000</pubDate><author>anwr.alhabsii@gmail.com (Anwar Alhabsi)</author>
+      <guid>http://localhost:1313/level_1/</guid>
+      <description>Welcome, aspiring cybersecurity enthusiasts! Whether you&amp;rsquo;re a beginner eager to learn the ropes or a seasoned pro looking to sharpen your skills, you&amp;rsquo;ve come to the right place.&#xA;I advise you to take your time while learning, note down everything you find valuable, and never hesitate to search up difficult topics on Google and Youtube.&#xA;Starting point (Linux) If you&amp;rsquo;re a CS or CYS student, you probably already have access to a Linux machine.</description>
+    </item>
+    <item>
+      <title>The Quiz</title>
+      <link>http://localhost:1313/quiz/</link>
+      <pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate><author>anwr.alhabsii@gmail.com (Anwar Alhabsi)</author>
+      <guid>http://localhost:1313/quiz/</guid>
+      <description>Welcome to the Cybersecurity Knowledge Quiz This quiz is designed to assess your understanding of various cybersecurity topics across three stages. Each stage is worth 20 points, making a total of 60 points possible.&#xA;Instructions: Each stage of the quiz has questions related to different aspects of cybersecurity. If you score less than 75% (which is 16 points out of 20) in any stage, you should complete the corresponding level on our site.</description>
+    </item>
+  </channel>
+</rss>
